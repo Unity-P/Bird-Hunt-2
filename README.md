@@ -39,5 +39,7 @@
 ![sahne3](https://user-images.githubusercontent.com/56188476/150697551-f27d54b0-a940-4a41-9916-7e609a611f8d.PNG) <br/>
 **Düşmanımız:** <br/>
 ![kuş](https://user-images.githubusercontent.com/56188476/150697565-e2ec90d0-fc21-40d6-80d6-ee62aaed5b9c.PNG) <br/>
+**Oynanıştan bir kare: ** <br/>
+![143855297-5a12bb8f-3974-445e-8a49-f9f4ef790be9](https://user-images.githubusercontent.com/56188476/150697777-100a0105-fa00-4004-a3bf-47f9276bf896.png) <br/>
 
 
