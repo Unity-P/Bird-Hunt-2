@@ -4,7 +4,7 @@
 •  **Ali Cüneyt ÇAĞLAR** - 19360859081 <br/>
 
 ## ---------------------------- PROJE GÖREVLERİMİZ ---------------------------- <br/>
-•	**Ali Furkan Demir'in Görevleri** : Ana menü, düşmanın hareketi (hızı, boyutu vs.), düşmanın spawn olması, karakterle düşmanın çarpışması, çarpışınca game over yazısı (oyun bitişi), mermi ile düşmanın çarpışması, Pause menüsü ve ses eklenmesi. <br/>
+•	**Ali Furkan DEMİR'in Görevleri** : Ana menü, düşmanın hareketi (hızı, boyutu vs.), düşmanın spawn olması, karakterle düşmanın çarpışması, çarpışınca game over yazısı (oyun bitişi), mermi ile düşmanın çarpışması, Pause menüsü ve ses eklenmesi. <br/>
 • **Ali Cüneyt ÇAĞLAR’ın Görevleri** : Hazır assetleri bulma (arka plan, harita, karakterler), ana karakter hareketleri, silah ve mermi hareketleri, mermi ile düşman çarpışınca düşmanın yok olması, skor tablosu eklenmesi,2.sahne ve ses eklenmesi. <br/>
 • Oyunumuzda kullandığımız müzikler : <br/>
 1- https://freesound.org/people/Nick_Simon-Adams/sounds/515091/ <br/>
@@ -25,5 +25,7 @@
 •  Karakterimiz ile sağ alt tarafa geçtiğimizde yeni bir sahneye geçiş yapılıyor. <br/>
 •  Bu sahnede bizden istenen karakterimiz ile platformu geçip “ALTIN” a ulaşmaktır. <br/>
 •  Altın'a ulaştığımızda ise oyunumuzun sona erdiğini gösteren bir sahneye geçiş yapıyoruz. <br/>
+
+
 
 
