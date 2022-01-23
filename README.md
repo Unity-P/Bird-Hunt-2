@@ -14,3 +14,6 @@ Oyun Programlama Oyun Projesi Raporu
 •  Altın`a ulaştığımızda ise oyunumuzun sona erdiğini gösteren bir sahneye geçiş yapıyoruz.
 •	Proje Görevlerim : Ana menü, düşmanın hareketi (hızı, boyutu vs.), düşmanın spawn olması, karakterle düşmanın çarpışması, çarpışınca game over yazısı (oyun bitişi), mermi ile düşmanın çarpışması, Pause menüsü ve ses eklenmesi.
 •  Ali Cüneyt ÇAĞLAR’ın Görevleri : Hazır assetleri bulma (arka plan, harita, karakterler), ana karakter hareketleri, silah ve mermi hareketleri, mermi ile düşman çarpışınca düşmanın yok olması, skor tablosu eklenmesi,2.sahne ve ses eklenmesi.
+Oyunumuzda kullandığımız müzikler :
+1- https://freesound.org/people/Nick_Simon-Adams/sounds/515091/
+2- https://freesound.org/people/Sami_Hiltunen/sounds/556954/
