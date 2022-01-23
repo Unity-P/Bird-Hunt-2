@@ -35,7 +35,7 @@
 ![sahne2](https://user-images.githubusercontent.com/56188476/150697545-249b18d9-4acd-4607-87fb-74d849849975.PNG) <br/>
 **Ana Menü Ekranı:** <br/>
 ![mainmenü](https://user-images.githubusercontent.com/56188476/150697547-c03b27d8-e3d0-4150-9b3c-e338c08d2e66.PNG) <br/>
-**Oyun Bitiş Ekranı: ** <br/>
+**Oyun Bitiş Ekranı:** <br/>
 ![sahne3](https://user-images.githubusercontent.com/56188476/150697551-f27d54b0-a940-4a41-9916-7e609a611f8d.PNG) <br/>
 **Düşmanımız:** <br/>
 ![kuş](https://user-images.githubusercontent.com/56188476/150697565-e2ec90d0-fc21-40d6-80d6-ee62aaed5b9c.PNG) <br/>
