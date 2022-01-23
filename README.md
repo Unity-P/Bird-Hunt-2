@@ -28,7 +28,7 @@
 
 ## ---------------------------- OYUN İÇİ GÖRSELLER ---------------------------- <br/>
 **Karakterimiz:** <br/>
-![karakter](https://user-images.githubusercontent.com/56188476/150697533-ea917bd5-d382-46a0-8314-1479c5fcda0c.PNG)
+![karakter](https://user-images.githubusercontent.com/56188476/150697533-ea917bd5-d382-46a0-8314-1479c5fcda0c.PNG) <br/>
 **İlk Bölüm:** <br/>
 ![ilksahne](https://user-images.githubusercontent.com/56188476/150697540-1dd924c9-2256-40b2-a9f7-83a801a5fe8b.PNG)
 ![sahne2](https://user-images.githubusercontent.com/56188476/150697545-249b18d9-4acd-4607-87fb-74d849849975.PNG)
